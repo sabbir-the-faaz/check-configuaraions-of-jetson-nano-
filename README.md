@@ -1,0 +1,1 @@
+# check-configuaraions-of-jetson-nano-
